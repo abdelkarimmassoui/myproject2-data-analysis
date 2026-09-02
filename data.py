@@ -8,3 +8,6 @@ print(x[0])
 
 y = "hallo world hhh"
 print(y)
+
+c = {"name": "abdo", "age": 32, "country": "maroc"}
+print(c["name"])

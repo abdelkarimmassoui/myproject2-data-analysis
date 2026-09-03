@@ -11,3 +11,10 @@ print(y)
 
 c = {"name": "abdo", "age": 32, "country": "maroc"}
 print(c["name"])
+#brach
+inp =  input("enter your name: ")
+
+if inp == "abdelkarim":
+    print("welcome abdelkarim")
+else:
+    print("you are not abdelkarim")         

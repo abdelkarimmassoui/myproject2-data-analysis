@@ -19,3 +19,7 @@ if inp == "abdelkarim":
     print("welcome abdelkarim")
 else:
     print("you are not abdelkarim")         
+
+#chi tkharbi9a hhh
+best = 0 
+print(best)

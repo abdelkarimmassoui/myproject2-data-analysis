@@ -23,9 +23,13 @@ else:
 #chi tkharbi9a hhh
 best = 0 
 print(best)
-
+#zadt hanya if dyal pprice
 price = 1982
 if(price >2000) :
     print('price rah fih inflation')
 else : 
     print("price mafich inflation ..")
+
+
+
+print("kakkaka" )
